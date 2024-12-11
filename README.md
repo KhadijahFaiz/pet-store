@@ -50,11 +50,7 @@ Follow these steps to set up the project on your local or live server:
 - Integration with WooCommerce for e-commerce functionality
 - Responsive design for mobile and desktop devices
 
-## Screenshots
-Include screenshots of your website here to give viewers a preview of your work.
 
-## Live Demo
-If you have deployed the project online, include the URL here.
 
 ## Credits
 
