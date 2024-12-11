@@ -1,0 +1,1092 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pet Animal Store\n"
+"Language-Team: ThemesCaliber <support@themescaliber.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru\n"
+
+#: 404.php:13
+msgid "404 Not Found"
+msgstr "404 Не Найдено"
+
+#: 404.php:16
+msgid ""
+"Looks like you have taken a wrong turn. Dont worry it happens to the best of "
+"us."
+msgstr "Похоже, вы ошиблись. Не волнуйтесь, это случается с лучшими из нас."
+
+#: 404.php:20
+msgid "Return to Home Page"
+msgstr "Вернуться на главную страницу"
+
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Одна мысль о & ldquo;% s & rdquo;"
+
+#: comments.php:31
+msgid "comments title"
+msgstr "заголовок комментария"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:61 inc/customizer.php:1449 customizer.php:1480
+msgid "Leave a Reply"
+msgstr "оставьте ответ"
+
+#: comments.php:62 inc/customizer.php:1459 customizer.php:1490
+msgid "Post Comment"
+msgstr "Оставьте комментарий"
+
+#: footer.php:53 functions.php:106
+msgid "By ThemesCaliber"
+msgstr "Автор: ThemesCaliber"
+
+#: footer.php:62 footer.php:64 footer.php:66
+msgid "Back to Top"
+msgstr "Back to Top"
+
+#: functions.php:34 functions.php:111
+msgid "Primary Menu"
+msgstr "основное меню"
+
+#: functions.php:100
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: functions.php:141
+msgid "Thank You!!!!!"
+msgstr "Спасибо!!!!!"
+
+#: functions.php:142
+msgid ""
+"Much grateful to you for choosing our pets theme from themescaliber. we "
+"praise you for opting our services over others. we are obliged to invite you "
+"on our welcome page to render you with our outstanding services."
+msgstr ""
+"Большое спасибо за то, что вы выбрали нашу тему домашних животных от "
+"themescaliber. мы благодарим вас за то, что вы предпочли наши услуги другим. "
+"мы обязаны пригласить вас на нашу страницу приветствия, чтобы оказать вам "
+"наши выдающиеся услуги."
+
+#: functions.php:143
+msgid "Click Here..."
+msgstr "Click Here..."
+
+#: functions.php:150
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:151
+msgid "Appears on blog page sidebar"
+msgstr "Отображается на боковой панели страницы блога"
+
+#: functions.php:160
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: functions.php:161 functions.php:171
+msgid "Appears on page sidebar"
+msgstr "Появляется на боковой панели страницы"
+
+#: functions.php:170
+msgid "Third Column Sidebar"
+msgstr "Боковая панель в третьем столбце"
+
+#: functions.php:183
+msgid "Footer Nav "
+msgstr "Navegación de pie de página"
+
+#: functions.php:496
+msgid "Pet Store WordPress Theme"
+msgstr "Тема WordPress для зоомагазина"
+
+#: functions.php:543
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: functions.php:544
+msgid "Next page"
+msgstr "Следущая страница"
+
+#: functions.php:545 template-parts/single-post.php:53
+msgid "Page"
+msgstr "Страница"
+
+#: header.php:45
+msgid "Skip to content"
+msgstr "перейти к содержанию"
+
+#: header.php:89 customizer.php:719
+msgid "Email"
+msgstr "Электронное письмо"
+
+#: header.php:104
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: header.php:112
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:115
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: header.php:118
+msgid "Instagram"
+msgstr "Instagram"
+
+#: header.php:121
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: header.php:138
+msgid "Open Menu"
+msgstr "Открыть меню"
+
+#: header.php:142
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: header.php:152
+msgid "Close Menu"
+msgstr "Закрыть меню"
+
+#: image.php:36 image.php:72 image.php:107 image.php:142 image.php:180
+#: image.php:218 image.php:255 page.php:27 template-parts/single-post.php:49
+#: page-template/page-with-left-sidebar:23
+#: page-template/page-with-right-sidebar:20
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: image.php:41 image.php:77 image.php:112 image.php:147 image.php:185
+#: image.php:223 image.php:260
+msgid "Edit"
+msgstr "Редактировать"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: no-results.php:16
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать свой первый пост? Начни здесь."
+
+#: no-results.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствовало вашим поисковым запросам. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: no-results.php:23
+msgid "Dont worry &hellip it happens to the best of us."
+msgstr "Не волнуйтесь, черт возьми, это случается с лучшими из нас."
+
+#: no-results.php:25
+msgid "Back to Home Page"
+msgstr "Вернуться на главную страницу"
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr "Искать:"
+
+#: searchform.php:11 searchform.php:13
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:11
+msgid "placeholder"
+msgstr "заполнитель"
+
+#: searchform.php:13
+msgid "submit button"
+msgstr "кнопка отправки"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: template-parts/single-post.php:26
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/single-post.php:66
+msgid "Parent post link"
+msgstr "Ссылка на родительский пост"
+
+#: template-parts/single-post.php:72 template-parts/single-post.php:73
+msgid "Next post"
+msgstr "Следующий пост"
+
+#: template-parts/single-post.php:75 template-parts/single-post.php:76
+msgid "Previous post"
+msgstr "Предыдущий пост"
+
+#: page-template/custom-frontage.php:47 inc/customizer.php:965
+#: customizer.php:987
+msgid "READ MORE"
+msgstr "ПОДРОБНЕЕ"
+
+#: page-template/custom-frontage.php:60
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: page-template/custom-frontage.php:63
+msgid "Next"
+msgstr "Следующий"
+
+#: page-template/custom-frontage.php:78
+msgid "Border Image"
+msgstr "Граница изображения"
+
+#: template-parts/content-audio.php:46 template-parts/content-gallery.php:36
+#: template-parts/content-image.php:29 template-parts/content-video.php:46
+#: template-parts/content.php:29 template-parts/grid-layout:25
+#: template-parts/related-posts.php:76 customizer.php:1312
+msgid "Read More"
+msgstr "Подробнее"
+
+#: template-parts/related-posts.php:57
+msgid "Related Posts"
+msgstr "Похожие сообщения"
+
+#: inc/logo/logo-width.php:19
+msgid "Logo Width"
+msgstr "Ширина логотипа"
+
+#: inc/logo/logo-width.php:41
+msgid "Show / Hide Site Title"
+msgstr "Показать / скрыть заголовок сайта"
+
+#: inc/logo/logo-width.php:50
+msgid "Site Title Font Size"
+msgstr "Размер шрифта заголовка сайта"
+
+#: inc/logo/logo-width.php:66
+msgid "Show / Hide Site Description"
+msgstr "Показать / скрыть описание сайта"
+
+#: inc/logo/logo-width.php:75
+msgid "Site Description Font Size"
+msgstr "Размер шрифта описания сайта"
+
+#: customizer.php:93 customizer.php:119 customizer.php:2218
+msgid "View PRO version"
+msgstr "Посмотреть ПРО версию"
+
+#: customizer.php:109
+msgid "Enable-Disable options on every section"
+msgstr "Параметры включения-отключения в каждом разделе"
+
+#: customizer.php:110
+msgid "Background Color & Image Option"
+msgstr "Фоновое изображение виджета нижнего колонтитула"
+
+#: customizer.php:111
+msgid "100+ Font Family Options"
+msgstr "100+ вариантов семейства шрифтов"
+
+#: customizer.php:112
+msgid "Advanced Color options"
+msgstr "Расширенные параметры цвета"
+
+#: customizer.php:113
+msgid "Translation ready"
+msgstr "Готов к переводу"
+
+#: customizer.php:114
+msgid "Gallery, Banner, Post Type Plugin Functionality"
+msgstr "Галерея, Баннер, Функциональность плагина типа сообщения"
+
+#: customizer.php:115
+msgid "Integrated Google map"
+msgstr "Интегрированная карта Google"
+
+#: customizer.php:116
+msgid "1 Year Free Support"
+msgstr "1 год бесплатной поддержки"
+
+#: customizer.php:224
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: customizer.php:225
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: customizer.php:230
+msgid "Color / Font Pallete"
+msgstr "Палитра цветов / шрифтов"
+
+#: customizer.php:262
+msgid "Paragraph Color"
+msgstr "Цвет абзаца"
+
+#: customizer.php:276
+msgid "Paragraph Fonts"
+msgstr "Абзацные шрифты"
+
+#: customizer.php:287
+msgid "Paragraph Font Size"
+msgstr "Размер шрифта абзаца"
+
+#: customizer.php:299
+msgid "\"a\" Tag Color"
+msgstr "Цвет тега \"а\""
+
+#: customizer.php:313
+msgid "\"a\" Tag Fonts"
+msgstr "Шрифты тегов \"а\""
+
+#: customizer.php:324
+msgid "\"li\" Tag Color"
+msgstr "Цвет тега \"li\""
+
+#: customizer.php:338
+msgid "\"li\" Tag Fonts"
+msgstr "Шрифты тегов \"li\""
+
+#: customizer.php:349
+msgid "H1 Color"
+msgstr "Цвет H1"
+
+#: customizer.php:363
+msgid "H1 Fonts"
+msgstr "Шрифты H1"
+
+#: customizer.php:375
+msgid "H1 Font Size"
+msgstr "Размер шрифта H1"
+
+#: customizer.php:387
+msgid "h2 Color"
+msgstr "цвет h2"
+
+#: customizer.php:401
+msgid "h2 Fonts"
+msgstr "h2 шрифты"
+
+#: customizer.php:413
+msgid "h2 Font Size"
+msgstr "h2 Размер шрифта"
+
+#: customizer.php:425
+msgid "h3 Color"
+msgstr "цвет h3"
+
+#: customizer.php:439
+msgid "h3 Fonts"
+msgstr "h3 шрифты"
+
+#: customizer.php:451
+msgid "h3 Font Size"
+msgstr "h3 Размер шрифта"
+
+#: customizer.php:463
+msgid "h4 Color"
+msgstr "Цвет h4"
+
+#: customizer.php:477
+msgid "h4 Fonts"
+msgstr "h4 шрифты"
+
+#: customizer.php:489
+msgid "h4 Font Size"
+msgstr "h4 Размер шрифта"
+
+#: customizer.php:501
+msgid "h5 Color"
+msgstr "цвет h5"
+
+#: customizer.php:515
+msgid "h5 Fonts"
+msgstr "h5 шрифты"
+
+#: customizer.php:527
+msgid "h5 Font Size"
+msgstr "h5 Размер шрифта"
+
+#: customizer.php:539
+msgid "h6 Color"
+msgstr "h6 Цвет"
+
+#: customizer.php:553
+msgid "h6 Fonts"
+msgstr "h6 шрифты"
+
+#: customizer.php:565
+msgid "h6 Font Size"
+msgstr "h6 Размер шрифта"
+
+#: customizer.php:573
+msgid "Theme Layout Settings"
+msgstr "Настройки макета темы"
+
+#: customizer.php:585 customizer.php:1850
+msgid "Show / Hide Preloader"
+msgstr "Показать / скрыть предварительный загрузчик"
+
+#: customizer.php:594
+msgid "Preloader Type"
+msgstr "Тип предзагрузчика"
+
+#: customizer.php:599
+msgid "Center Square"
+msgstr "Центральная площадь"
+
+#: customizer.php:600
+msgid "Chasing Square"
+msgstr "Chasing Square"
+
+#: customizer.php:630
+msgid "Select Site Layout"
+msgstr "Выберите макет сайта"
+
+#: customizer.php:633
+msgid "Full Layout"
+msgstr "Полный макет"
+
+#: customizer.php:634
+msgid "Contained Layout"
+msgstr "Содержимое макета"
+
+#: customizer.php:635
+msgid "Boxed Layout"
+msgstr "В штучной упаковке макет"
+
+#: customizer.php:648
+msgid "Sidebar Options"
+msgstr "Opciones de la barra lateral"
+
+#: customizer.php:651
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: customizer.php:652
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: customizer.php:653
+msgid "One Column"
+msgstr "Одна колонка"
+
+#: customizer.php:654
+msgid "Three Columns"
+msgstr "Tres columnas"
+
+#: customizer.php:655
+msgid "Four Columns"
+msgstr "Cuatro columnas"
+
+#: customizer.php:656
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: customizer.php:663
+msgid "Top Header"
+msgstr "Верхний заголовок"
+
+#: customizer.php:664 customizer.php:779
+msgid "Add Header Content here"
+msgstr "Добавьте сюда содержимое заголовка"
+
+#: customizer.php:676
+msgid "Sticky Header"
+msgstr "Прикрепленный заголовок"
+
+#: customizer.php:685
+msgid "Sticky Header Padding"
+msgstr "Заполнение липким заголовком"
+
+#: customizer.php:709
+msgid "Mail Icon"
+msgstr "Значок почты"
+
+#: customizer.php:731
+msgid "Phone Icon"
+msgstr "Значок телефона"
+
+#: customizer.php:741
+msgid "Phone"
+msgstr "Телефон"
+
+#: customizer.php:753
+msgid "Navigation Case"
+msgstr "Чехол для навигации"
+
+#: customizer.php:756
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: customizer.php:757
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: customizer.php:766
+msgid "Navigation Font Size"
+msgstr "Размер шрифта навигации"
+
+#: customizer.php:778
+msgid "Social Icon Section"
+msgstr "Раздел социальных иконок"
+
+#: customizer.php:798
+msgid "Facebook Icon"
+msgstr "Значок Facebook"
+
+#: customizer.php:808
+msgid "Add Facebook link"
+msgstr "Добавить ссылку на Facebook"
+
+#: customizer.php:820
+msgid "Twitter Icon"
+msgstr "Значок Twitter"
+
+#: customizer.php:830
+msgid "Add Twitter link"
+msgstr "Добавить ссылку на Twitter"
+
+#: customizer.php:842
+msgid "Instagram Icon"
+msgstr "Значок Instagram"
+
+#: customizer.php:852
+msgid "Add Instagram link"
+msgstr "Добавить ссылку в Instagram"
+
+#: customizer.php:864
+msgid "Linkedin Icon"
+msgstr "Значок Linkedin"
+
+#: customizer.php:874
+msgid "Add Linkedin link"
+msgstr "Добавить ссылку на Linkedin"
+
+#: customizer.php:886
+msgid "Youtube Icon"
+msgstr "Значок Youtube"
+
+#: customizer.php:896
+msgid "Add Youtube link"
+msgstr "Добавить ссылку на Youtube"
+
+#: customizer.php:904
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: customizer.php:923
+msgid "Show / Hide slider"
+msgstr "Показать / скрыть слайдер"
+
+#: customizer.php:933
+msgid "Select Slide Image Page"
+msgstr "Выбрать страницу с изображением слайда"
+
+#: customizer.php:945
+msgid "Show / Hide slider Title"
+msgstr "Mostrar / Ocultar título del control deslizante"
+
+#: customizer.php:955
+msgid "Show / Hide slider Content"
+msgstr "Mostrar / Ocultar contenido del control deslizante"
+
+#: customizer.php:965
+msgid "Show / Hide slider Button"
+msgstr "Показать / скрыть кнопку слайдера"
+
+#: customizer.php:975
+msgid "Slider Excerpt length"
+msgstr "Длина отрывка слайдера"
+
+#: customizer.php:991
+msgid "Slider Button text"
+msgstr "Текст кнопки ползунка"
+
+#: customizer.php:1003
+msgid "Slider Overlay"
+msgstr "Ползунок наложения"
+
+#: customizer.php:1004
+msgid "This option will add colors over the slider."
+msgstr "Эта опция добавит цвета к ползунку."
+
+#: customizer.php:1013
+msgid "Slider Overlay Color"
+msgstr "Цвет наложения слайдера"
+
+#: customizer.php:1024
+msgid "Slider Image Opacity"
+msgstr "Прозрачность изображения слайдера"
+
+#: customizer.php:1049
+msgid "Slider Content Alignment"
+msgstr "Выравнивание содержимого слайдера"
+
+#: customizer.php:1052 customizer.php:1703 customizer.php:1753
+msgid "Center"
+msgstr "Centrar"
+
+#: customizer.php:1053 customizer.php:1101 customizer.php:1701
+#: customizer.php:1751 customizer.php:2053
+msgid "Left"
+msgstr "Левый"
+
+#: customizer.php:1054 customizer.php:1116 customizer.php:1702
+#: customizer.php:1752 customizer.php:2054
+msgid "Right"
+msgstr "Верно"
+
+#: customizer.php:1062
+msgid "Slider Content Spacing"
+msgstr "Интервал между содержимым слайдера"
+
+#: customizer.php:1071 customizer.php:1412
+msgid "Top"
+msgstr "верхний"
+
+#: customizer.php:1086 customizer.php:1413
+msgid "Bottom"
+msgstr "Нижний"
+
+#: customizer.php:1131
+msgid "Slider Speed"
+msgstr "Скорость ползунка"
+
+#: customizer.php:1146
+msgid "Slider Height"
+msgstr "Высота слайдера"
+
+#: customizer.php:1159
+msgid "Featured Products"
+msgstr "Рекомендуемые товары"
+
+#: customizer.php:1160
+msgid "This section will appear below the slider."
+msgstr "Этот раздел появится под ползунком."
+
+#: customizer.php:1177
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: customizer.php:1188
+msgid "Select Product Page"
+msgstr "Выберите страницу продукта"
+
+#: customizer.php:1195
+msgid "Post Settings"
+msgstr "Настройки публикации"
+
+#: customizer.php:1205
+msgid "Enable / Disable Post Date"
+msgstr "Включить / отключить дату публикации"
+
+#: customizer.php:1215
+msgid "Enable / Disable Post Author"
+msgstr "Включение / отключение автора сообщения"
+
+#: customizer.php:1225
+msgid "Enable / Disable Post Comments"
+msgstr "Включение / отключение комментариев к сообщениям"
+
+#: customizer.php:1235
+msgid "Enable / Disable Featured Image"
+msgstr "Включение / отключение избранного изображения"
+
+#: customizer.php:1244
+msgid "Featured image border radius"
+msgstr "Radio del borde de la imagen destacada"
+
+#: customizer.php:1259
+msgid "Featured image box shadow"
+msgstr "Тень блока избранного изображения"
+
+#: customizer.php:1275
+msgid "Post Content Type"
+msgstr "Тип содержимого сообщения"
+
+#: customizer.php:1278
+msgid "No Content"
+msgstr "Без содержания"
+
+#: customizer.php:1279
+msgid "Full Content"
+msgstr "Полный контент"
+
+#: customizer.php:1280
+msgid "Excerpt Content"
+msgstr "Отрывок из содержания"
+
+#: customizer.php:1289
+msgid "Post Excerpt Length"
+msgstr "Длина выдержки из сообщения"
+
+#: customizer.php:1305
+msgid "Excerpt Suffix"
+msgstr "Суффикс выдержки"
+
+#: customizer.php:1316
+msgid "Post Button Text"
+msgstr "Publicar texto del botón"
+
+#: customizer.php:1327
+msgid "Top Bottom Button Padding"
+msgstr "Верхняя нижняя обивка кнопок"
+
+#: customizer.php:1342
+msgid "Left Right Button Padding"
+msgstr "Прокладка левой правой кнопки"
+
+#: customizer.php:1357 customizer.php:1964
+msgid "Button Border Radius"
+msgstr "Радиус границы кнопки"
+
+#: customizer.php:1374
+msgid "Post blocks"
+msgstr "Почтовые блоки"
+
+#: customizer.php:1376
+msgid "Within box"
+msgstr "Внутри коробки"
+
+#: customizer.php:1377
+msgid "Without box"
+msgstr "Sin caja"
+
+#: customizer.php:1386
+msgid "Enable / Disable Post Navigation"
+msgstr "Включение / отключение навигации по сообщениям"
+
+#: customizer.php:1397
+msgid "Post Navigation Type"
+msgstr "Тип сообщения навигации"
+
+#: customizer.php:1399
+msgid "Number"
+msgstr "Число"
+
+#: customizer.php:1400
+msgid "Next/Prev Button"
+msgstr "Кнопка \"Далее / Назад\""
+
+#: customizer.php:1410
+msgid "Post Navigation Position"
+msgstr "Позиция навигации после сообщения"
+
+#: customizer.php:1414
+msgid "Both"
+msgstr "Оба"
+
+#: customizer.php:1419
+msgid "Single Post Settings"
+msgstr "Настройки одного сообщения"
+
+#: customizer.php:1429
+msgid "Enable / Disable Feature Image"
+msgstr "Включение / отключение изображения функции"
+
+#: customizer.php:1439
+msgid "Enable / Disable Tags"
+msgstr "Включить / отключить теги"
+
+#: customizer.php:1449
+msgid "Enable / Disable Comment"
+msgstr "Включить / отключить комментарий"
+
+#: customizer.php:1459
+msgid "Enable / Disable Post Time"
+msgstr "Включить / отключить время публикации"
+
+#: customizer.php:1468
+msgid "Comment Textarea Width"
+msgstr "Ancho del área de texto del comentario"
+
+#: customizer.php:1485
+msgid "Comment form Title"
+msgstr "Форма комментария Заголовок"
+
+#: customizer.php:1495
+msgid "Comment Button Text"
+msgstr "Текст кнопки комментария"
+
+#: customizer.php:1505
+msgid "Enable / Disable Nav Links"
+msgstr "Включение / отключение навигационных ссылок"
+
+#: customizer.php:1515
+msgid "Previous Navigation Text"
+msgstr "Предыдущий текст навигации"
+
+#: customizer.php:1525
+msgid "Next Navigation Text"
+msgstr "Следующий текст навигации"
+
+#: customizer.php:1535
+msgid "Enable / Disable Related Posts"
+msgstr "Включение / отключение связанных сообщений"
+
+#: customizer.php:1545
+msgid "Related Posts Title"
+msgstr "Связанные сообщения Заголовок"
+
+#: customizer.php:1554
+msgid "Related Posts Count"
+msgstr "Количество связанных сообщений"
+
+#: customizer.php:1572
+msgid "Related Posts Order By"
+msgstr "Похожие сообщения Сортировать по"
+
+#: customizer.php:1574
+msgid "Categories"
+msgstr "Категории"
+
+#: customizer.php:1575
+msgid "Tags"
+msgstr "Теги"
+
+#: customizer.php:1580
+msgid "404 & No Result Page Settings"
+msgstr "404 & Параметры страницы без результата"
+
+#: customizer.php:1591
+msgid "404 Page Title"
+msgstr "404 Заголовок страницы"
+
+#: customizer.php:1601
+msgid "404 Page Text"
+msgstr "Текст страницы 404"
+
+#: customizer.php:1611
+msgid "404 Page Button Text"
+msgstr "Текст кнопки 404 страницы"
+
+#: customizer.php:1621
+msgid "No Result Page Title"
+msgstr "Заголовок страницы без результата"
+
+#: customizer.php:1631
+msgid "No Result Page Text"
+msgstr "Нет текста на странице результатов"
+
+#: customizer.php:1641
+msgid "Show/Hide Search Form"
+msgstr "Показать / скрыть форму поиска"
+
+#: customizer.php:1647
+msgid "Footer Section"
+msgstr "Нижний колонтитул"
+
+#: customizer.php:1667
+msgid "Show/Hide Back to Top Button"
+msgstr "Показать / скрыть кнопку \"Вернуться к началу\""
+
+#: customizer.php:1677
+msgid "Back to Top Icon"
+msgstr "Вернуться к началу Иконка"
+
+#: customizer.php:1687
+msgid "Back to Top Button Text"
+msgstr "Текст кнопки «Вернуться к началу»"
+
+#: customizer.php:1698
+msgid "Back to Top Button Alignment"
+msgstr "Наверх Выравнивание кнопок"
+
+#: customizer.php:1712
+msgid "Footer Background Color"
+msgstr "Цвет фона нижнего колонтитула"
+
+#: customizer.php:1721
+msgid "Footer Background Image"
+msgstr "Фоновое изображение нижнего колонтитула"
+
+#: customizer.php:1731
+msgid "Footer widget layout"
+msgstr "Макет виджета нижнего колонтитула"
+
+#: customizer.php:1733
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+"Seleccione la cantidad de áreas de widgets que desee en el pie de página. "
+"Después de eso, vaya a Apariencia> Widgets y agregue sus widgets."
+
+#: customizer.php:1735
+msgid "One"
+msgstr "Один"
+
+#: customizer.php:1736
+msgid "Two"
+msgstr "Один"
+
+#: customizer.php:1737
+msgid "Three"
+msgstr "Три"
+
+#: customizer.php:1738
+msgid "Four"
+msgstr "Четыре"
+
+#: customizer.php:1748
+msgid "Copyright Alignment"
+msgstr "Согласование авторских прав"
+
+#: customizer.php:1762
+msgid "Copyright Font Size"
+msgstr "Размер шрифта авторского права"
+
+#: customizer.php:1772
+msgid "Copyright Top Bottom Padding"
+msgstr "Авторские права: верхняя нижняя обивка"
+
+#: customizer.php:1790
+msgid "Copyright Text"
+msgstr "Текст об авторском праве"
+
+#: customizer.php:1797
+msgid "Mobile Media Options"
+msgstr "Параметры мобильных медиа"
+
+#: customizer.php:1808
+msgid "Open Menu Icon"
+msgstr "Значок \"Открыть меню\""
+
+#: customizer.php:1819
+msgid "Close Menu Icon"
+msgstr "Значок закрытия меню"
+
+#: customizer.php:1830
+msgid "Show / Hide Slider"
+msgstr "Показать / скрыть слайдер"
+
+#: customizer.php:1840
+msgid "Show / Hide Back to Top Button"
+msgstr "Mostrar / Ocultar botón Volver al principio"
+
+#: customizer.php:1856
+msgid "Additional WooCommerce Options"
+msgstr "Дополнительные параметры WooCommerce"
+
+#: customizer.php:1869
+msgid "Product per row"
+msgstr "Продукт в строке"
+
+#: customizer.php:1884
+msgid "Product per page"
+msgstr "Продукт на странице"
+
+#: customizer.php:1895
+msgid "Enable / Disable Shop page sidebar"
+msgstr "Habilitar / deshabilitar la barra lateral de la página de la tienda"
+
+#: customizer.php:1905
+msgid "Enable / Disable Shop page pagination"
+msgstr "Habilitar / deshabilitar la paginación de la página de la tienda"
+
+#: customizer.php:1915
+msgid "Enable / Disable Product page sidebar"
+msgstr "Habilitar / deshabilitar la barra lateral de la página del producto"
+
+#: customizer.php:1925
+msgid "Enable / Disable Related product"
+msgstr "Включение / отключение связанного продукта"
+
+#: customizer.php:1934
+msgid "Button Top Bottom Padding"
+msgstr "Пуговица сверху снизу набивка"
+
+#: customizer.php:1949
+msgid "Button Right Left Padding"
+msgstr "Кнопка Right Left Padding"
+
+#: customizer.php:1980
+msgid "Enable / Disable product border"
+msgstr "Включить / отключить границу продукта"
+
+#: customizer.php:1989
+msgid "Product Top Bottom Padding"
+msgstr "Прокладка сверху и снизу продукта"
+
+#: customizer.php:2004
+msgid "Product Right Left Padding"
+msgstr "Правый левый отступ продукта"
+
+#: customizer.php:2019
+msgid "Product Border Radius"
+msgstr "Радиус границы продукта"
+
+#: customizer.php:2034
+msgid "Product Box Shadow"
+msgstr "Тень коробки продукта"
+
+#: customizer.php:2050
+msgid "Sale badge Position"
+msgstr "Положение значка продажи"
+
+#: customizer.php:2063
+msgid "Sale Top Bottom Padding"
+msgstr "Распродажа Верхняя нижняя обивка"
+
+#: customizer.php:2078
+msgid "Sale Right Left Padding"
+msgstr "Распродажа Right Left Padding"
+
+#: customizer.php:2093
+msgid "Sale Border Radius"
+msgstr "Радиус границы продажи"
+
+#: customizer.php:2108
+msgid "Sale Font Size"
+msgstr "Размер шрифта продажи"
+
+#: customizer.php:2196
+msgid "Pet Animals"
+msgstr "Домашние животные"
+
+#: customizer.php:2198
+msgid "Documentation"
+msgstr "Документация"
+
+#: customizer.php:2210
+msgid "Services Section"
+msgstr "Секция услуг"
+
+#: customizer.php:2211
+msgid "Gallery section"
+msgstr "Раздел галереи"
+
+#: customizer.php:2212
+msgid "Doctors Team section"
+msgstr "Раздел бригады врачей"
+
+#: customizer.php:2213
+msgid "Why Choose us Section"
+msgstr "Почему выбирают нас Раздел"
+
+#: customizer.php:2214
+msgid "Testimonial section"
+msgstr "Раздел отзывов"
+
+#: customizer.php:2215
+msgid "Blog section"
+msgstr "Раздел блога"

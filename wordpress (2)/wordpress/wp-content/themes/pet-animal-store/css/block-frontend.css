@@ -1,0 +1,145 @@
+.pet-animal-store-banner-section{
+    width: auto;
+    height: auto;
+}
+/*pet-animal-store-banner-section*/
+.pet-animal-store-banner-section .wp-block-column{
+    margin-left: 15%;
+}
+.pet-animal-store-banner-section h1{
+    font-weight: 700;
+}
+.pet-animal-store-banner-section a.wp-block-button__link {
+    font-weight: 600;
+    text-decoration: none;
+    border: none;
+}
+.pet-animal-store-banner-section a.wp-block-button__link:hover{
+    background: #000 !important;
+    color: #fff !important;
+}
+.pet-animal-store-banner-section img{
+    object-fit: unset !important;
+}
+/*pet-animal-store-product-section*/
+.pet-animal-store-product-section .wc-block-grid__product img{
+    width: 250px;
+    height: 250px;
+}
+.pet-animal-store-product-section .wc-block-grid__product .wc-block-grid__product-image{
+    padding: 10px;
+}
+.pet-animal-store-product-section p{
+    font-weight: 600;
+}
+.pet-animal-store-product-section figure{
+    border: none;
+}
+.pet-animal-store-product-section .wc-block-grid__product-title {
+    color: #121212;
+    font-weight: normal;
+    font-size: 25px;
+    text-decoration: none !important;
+}
+.pet-animal-store-product-section a.wc-block-grid__product-link {
+    text-decoration: none;
+}
+.pet-animal-store-product-section li.wc-block-grid__product {
+    position: relative;
+}
+.pet-animal-store-product-section .wc-block-grid__product-onsale {
+    font-weight: 700;
+    position: absolute;
+    line-height: 3.236;
+    top: -0.5em;
+    right: 0px;
+    border-radius: 50px;
+    background-color: #83df00;
+    color: #333;
+    font-size: 12px;
+    padding: 5px 9px;
+    border:none;
+}
+.pet-animal-store-product-section-column a.wp-block-button__link{
+    color: #333333 !important;
+    font-size: 15px !important;
+    border-radius: 0px !important;
+    font-weight: 600;
+    border: solid 2px #333;
+    background: transparent;
+    text-decoration: none;
+}
+.pet-animal-store-product-section-column a.wp-block-button__link:hover{
+    color: #333333 !important;
+    border-color: #83df00 !important;
+    background: #83df00 !important;
+}
+.pet-animal-store-product-section-column .wc-block-grid__product-price.price {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0;
+    position: absolute;
+    top: 25px;
+    background: #83df00 !important;
+    left: 25px;
+    padding: 5px;
+}
+.pet-animal-store-product-section li.wc-block-grid__product {
+    padding: 0;
+    background: #fff;
+    position: relative;
+    box-shadow: 0 0 10px #ddd;
+    margin-left: 20px;
+    border-bottom: 0px;
+}
+.pet-animal-store-product-section ul.wc-block-grid__products{
+    flex-wrap: nowrap !important; 
+}
+@media screen and (min-width: 320px) and (max-width:720px) {
+    .pet-animal-store-banner-section-text h1{
+        font-size: 30px !important;
+    }
+    .pet-animal-store-product-section li.wc-block-grid__product {
+        padding: 5px !important;
+        margin: 15px 0px !important;
+    }
+    .pet-animal-store-banner-section .wp-block-column {
+        margin-left: 0%;
+    }
+}
+@media screen and (min-width: 721px) and (max-width:991px) {
+    .pet-animal-store-banner-section h1{
+       font-size: 30px !important;
+    }
+    .pet-animal-store-banner-section .wp-block-columns{
+       flex-wrap: nowrap !important;
+    }
+    .pet-animal-store-product-section-section-column {
+       flex-wrap: nowrap !important;
+    }
+    .pet-animal-store-product-section li.wc-block-grid__product {
+       margin-left: 8px;
+    }
+    .pet-animal-store-product-section-column .wc-block-grid__product-price.price {
+       top: 45px;
+    }
+}
+@media screen and (min-width: 722px) and (max-width:1024px) {
+    .pet-animal-store-product-section li.wc-block-grid__product {
+       margin-left: 8px;
+    }
+    .pet-animal-store-product-section-column .wc-block-grid__product-price.price {
+       top: 45px;
+    }
+    .pet-animal-store-product-section-column.mx-lg-5{
+        margin-left: 0rem !important;
+        margin-right: 0rem !important;
+    }
+    .pet-animal-store-banner-section .wp-block-column {
+        margin-left: 0%;
+    }
+    .pet-animal-store-product-section .wc-block-grid__product img {
+        width: 200px;
+        height: 200px;
+    }
+}

@@ -1,0 +1,92 @@
+# Copyright (C) 2024 WpDevArt
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pet Shop 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pet-shop\n"
+"POT-Creation-Date: 2024-08-27 09:49:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:183
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:214
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:215
+msgid "Default sidebar for blog/archive and post/page."
+msgstr ""
+
+#: functions.php:219
+msgid "Footer Large Widget"
+msgstr ""
+
+#: functions.php:220
+msgid "Large footer widget."
+msgstr ""
+
+#: functions.php:224
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:225 functions.php:230 functions.php:235 functions.php:240
+msgid "A regular footer widget."
+msgstr ""
+
+#: functions.php:229
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:234
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:239
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/customizer/custom-controls.php:106
+#: inc/customizer/custom-controls.php:149
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/customizer/sections/premium-link-section.php:11
+msgid "Pet Shop"
+msgstr ""
+
+#: inc/customizer/sections/premium-link-section.php:12
+msgid "Premium"
+msgstr ""
+
+#: template-parts/footer/footer-layout-four.php:60
+#: template-parts/footer/footer-layout-one.php:49
+#: template-parts/footer/footer-layout-three.php:49
+#: template-parts/footer/footer-layout-two.php:48
+msgid " %s Powered by WordPress."
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Pet Shop"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wpdevart.com/wordpress-pet-shop-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Pet Shop is a WordPress theme specially designed for pet stores or blogs about pets. Of course, you can use this theme on any other type of website, the range of uses of this theme is huge as the theme has huge functionality to create different layouts and designs. WordPress Pet Shop theme is integrated with WooCommerce, so you can easily install and use the Woo plugin with our theme. The basic styling of WooCommerce pages, buttons, and fields is styled to match the theme and is consistent with the design of other pages. The theme offers various options so you can easily change the design of posts, pages, archives, etc. The top header and main header layouts are also fully customizable, so you can choose the layout you like best. You can show or hide any element in headers and thus control the entire appearance of the header. WordPress Pet Shop theme also comes with various built-in footer themes. You can choose the theme you like best from the five available footer styles. We can talk about all the theme options, but it will take a lot of time, so the best option is to install and test the theme yourself and try them all. If you have any issues or would like to see a new feature, we would like to hear about it and will add this feature to our upcoming features list."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WpDevArt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpdevart.com"
+msgstr ""
